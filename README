@@ -1,7 +1,7 @@
 SMS in Ringer Stream
 ================
 
-This was made for Samsung Galaxy S3 and tested on it. It should work on other phones, but I can't be sure. I don't held any responsability for any damage you do on your phone.
+This was made for Samsung Galaxy S3 and tested on it. It should work on other phones, but I can't be sure. I don't held any responsibility for any damage you do on your phone.
 
 The default SMS/MMS app has no option to set volume level for notifications and it uses the level set by the system to all notifications. I prefer to have it use the same level as the ringer so I made this mod to do it. This way I can have a low sound level for notifications, a normal sound level for ringer and hear not only incoming calls but also SMS/MMS. 
 
@@ -13,4 +13,4 @@ After you have installed Xposed framework, install this app. After that, enable 
 NOTE: This only works in default SMS/MMS app, others apps won't work.
 
 
-Any kind of support (which will be minimal) and download is in XDA: http://forum.xda-developers.com/showthread.php?t=
+Any kind of support (which will be minimal) and download is in XDA: http://forum.xda-developers.com/showthread.php?t=2330473
